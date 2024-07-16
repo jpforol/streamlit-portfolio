@@ -42,10 +42,10 @@ pg = st.navigation(
 # SHARED ON ALL PAGESs
 with st.sidebar:
     st.header('João Pedro Forequi de Oliveira')
-    st.image('./assets/profile_image.png')
-    st.markdown(img_to_html('./assets/email_icon.png')+'  jpforol@gmail.com', unsafe_allow_html=True)
-    st.markdown(img_to_html('./assets/linkedin_icon.png')+'  [in/jpforol](https://www.linkedin.com/in/jpforol/)', unsafe_allow_html=True)
-    st.markdown(img_to_html('./assets/github_icon.png')+'  [/jpforol](https://github.com/jpforol)', unsafe_allow_html=True)
+    st.image('profile_image.png')
+    st.markdown(img_to_html('email_icon.png')+'  jpforol@gmail.com', unsafe_allow_html=True)
+    st.markdown(img_to_html('linkedin_icon.png')+'  [in/jpforol](https://www.linkedin.com/in/jpforol/)', unsafe_allow_html=True)
+    st.markdown(img_to_html('github_icon.png')+'  [/jpforol](https://github.com/jpforol)', unsafe_allow_html=True)
     if st.button('Contate-me'):
         show_contact_form()
     st.markdown('Feito por [João Pedro Forequi de Oliveira](https://www.linkedin.com/in/jpforol/)')
