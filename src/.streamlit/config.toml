@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#BF3480"  # Combinando com a cor da camisa
+
+# Background color for the main content area.
+backgroundColor = "#A6A085"  # Um dos tons do fundo da imagem
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#8C7354"  # Outro tom do fundo da imagem
+
+# Color used for almost all text.
+textColor = "#2E2E2E"  # Um tom neutro que complementa bem as outras cores
+
+[client]
+toolbarMode = "minimal"

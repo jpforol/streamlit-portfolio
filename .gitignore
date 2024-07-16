@@ -1,0 +1,6 @@
+[files]
+/venv
+__pycache__
+
+[dotfiles]
+secrets.toml
