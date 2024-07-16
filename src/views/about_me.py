@@ -17,7 +17,7 @@ st.write('\n')
 st.subheader('Educação', anchor=False)
 st.write(
     """
-    **Mestrado**: Computação Aplicada em Inteligência Artificial | IFES (Trancado)
+    **Mestrado**: Computação Aplicada em Inteligência Artificial | IFES (Em andamento)
     - Dissertação (Em andamento): Proposta de uma arquitetura para construção de jogos sérios para aprendizado do pensamento crítico
     """
 )
